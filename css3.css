@@ -126,3 +126,8 @@ body {
     border-radius: 3px;
     transition: transform 0.25s ease, box-shadow 0.25s ease;
 }
+
+.feature-card img {
+    width: 55px;
+    margin-bottom: 15px;
+}
