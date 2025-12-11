@@ -32,3 +32,7 @@
     font-weight: 500;
     transition: 0.3s;
 }
+
+.menuhead ul li:hover {
+    color: #00a8b5;
+}
