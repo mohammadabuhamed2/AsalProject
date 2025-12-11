@@ -104,3 +104,14 @@ body {
     max-width: 100%;
     display: block;
 }
+
+
+.features {
+    width: 100%;
+    padding: 40px 8% 80px;
+    display: flex;
+    justify-content: space-between;
+    gap: 30px;
+    margin-top: 20px;
+}
+
