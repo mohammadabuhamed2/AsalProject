@@ -98,3 +98,9 @@ body {
     text-decoration: none;
     border-radius: 2px;
 }
+
+.hero-image img {
+    width: 480px;
+    max-width: 100%;
+    display: block;
+}
