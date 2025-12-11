@@ -19,3 +19,9 @@
     border-bottom: 3px solid transparent;
     background-image: linear-gradient(to bottom, #bbdee03e 0%, #ffffff 100%);
 }
+
+.menuhead ul {
+    display: flex;
+    gap: 25px;
+    list-style: none;
+}
