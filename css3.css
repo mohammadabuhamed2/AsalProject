@@ -36,3 +36,7 @@
 .menuhead ul li:hover {
     color: #00a8b5;
 }
+
+.logo {
+    width: 80px;
+}
