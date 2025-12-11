@@ -66,3 +66,9 @@ body {
     opacity: 0.1;
     z-index: -1;
 }
+
+.hero-content {
+    max-width: 45%;
+}
+
+
