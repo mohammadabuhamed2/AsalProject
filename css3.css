@@ -59,3 +59,10 @@ body {
     padding: 0 8%;
     overflow: hidden;
 }
+
+.hero::before {
+    position: absolute;
+    background: url("images/about.png") center/contain no-repeat;
+    opacity: 0.1;
+    z-index: -1;
+}
