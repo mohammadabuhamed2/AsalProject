@@ -78,4 +78,7 @@ body {
     margin-bottom: 25px;
 }
 
+.hero-content h1 span {
+    color: rgb(6, 153, 153);
+}
 
