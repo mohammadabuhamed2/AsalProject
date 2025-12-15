@@ -58,8 +58,9 @@ body {
     justify-content: space-between;
     padding: 0 8%;
     overflow: hidden;
+    background: url(images/bg.png); 
+background-size: cover;
 }
-
 
 .hero::before {
     content: "";
